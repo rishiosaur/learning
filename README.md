@@ -2,9 +2,9 @@
 
 #### Beginner
 
-- [ ] Factorial Algorithm
-- [ ] Triangle (upwards)
-- [ ] Triangle (downwards)
+- [X ] Factorial Algorithm
+- [X ] Triangle (upwards)
+- [X ] Triangle (downwards)
 - [ ] Centered Triangle
 - [ ] Pyramid
 - [ ] Fibonacci sequence
