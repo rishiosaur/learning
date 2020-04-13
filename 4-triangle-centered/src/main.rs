@@ -30,11 +30,3 @@ fn main() {
     
     //This function should only work for odd numbers.
 }
-/*
-n=5
-  *  
- *** 
-*****
-
-
- */
